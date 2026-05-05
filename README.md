@@ -15,21 +15,16 @@ This Zed extension integrates [LM Studio](https://lmstudio.ai) with [Zed Editor]
 
 ## Installation
 
-### Step 1: Build the Plugin
+### Step 1: Build the Bridge
 
 ```bash
 # Clone the repository
 git clone https://github.com/irfancode/gemma-zed.git
-cd gemma-zed
-
-# Build the bridge binary
-cd bridge
+cd gemma-zed/bridge
 cargo build --release
-
-# Build the extension (optional, for development)
-cd ..
-cargo build --release -p gemma-zed
 ```
+
+The compiled binary will be at `bridge/target/release/gemma-zed-bridge`
 
 ### Step 2: Configure LM Studio
 

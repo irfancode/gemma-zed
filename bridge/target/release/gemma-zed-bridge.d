@@ -1,0 +1,1 @@
+/private/var/folders/sj/kkjxjj1j77734trp5m37kp580000gn/T/opencode/gemma-zed/bridge/target/release/gemma-zed-bridge: /private/var/folders/sj/kkjxjj1j77734trp5m37kp580000gn/T/opencode/gemma-zed/bridge/src/main.rs
