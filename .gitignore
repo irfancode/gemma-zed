@@ -1,5 +1,6 @@
+target/
 /target
-/Cargo.lock
+Cargo.lock
 **/*.rs.bk
 *.pdb
 .DS_Store
