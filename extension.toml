@@ -1,0 +1,7 @@
+id = "gemma-zed"
+name = "Gemma 4 (LM Studio)"
+description = "Local Gemma 4 inference via LM Studio for Zed AI assistant"
+version = "0.1.0"
+schema_version = 1
+authors = ["Irfan"]
+repository = "https://github.com/irfancode/gemma-zed"

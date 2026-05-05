@@ -1,0 +1,5 @@
+[workspace]
+members = ["gemma-zed", "bridge"]
+
+[workspace.dependencies]
+zed_extension_api = "0.7.0"
